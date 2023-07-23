@@ -7,3 +7,5 @@
 [Type Assertion / Утверждение типов](2.md)
 
 [Generics / Дженерики / Обобщения](3.md)
+
+[Conditional Types / Условные типы / Infer](4.md)

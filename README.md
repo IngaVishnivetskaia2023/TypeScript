@@ -1,5 +1,7 @@
 # TypeScript
 
+[Primitive Types & Type System Fundamentals](8.md)
+
 [Interfase vs Type / Разница между интерфейсом и типом](1.md)
 
 [typeof и keyof](4.md)
